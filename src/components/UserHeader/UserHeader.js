@@ -15,7 +15,7 @@ const UserHeader = ({ user }) => {
           <h2>Gazal</h2>
           <h4>
             <a
-              href={`https://gitconnected.com/v1/portfolio/gazalpatel`}
+              href={`https://gitconnected.com/v1/portfolio/Mrugapatel`}
               target="_blank"
               rel="noreferrer noopener"
             >

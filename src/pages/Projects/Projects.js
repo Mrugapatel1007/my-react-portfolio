@@ -12,7 +12,7 @@ const Projects = ({ user }) => {
           {user.projects.map((project, i) => (
             <ProjectItem key={i}>
               <ProjectTitle>.Net</ProjectTitle>
-              <p>I did Project in .net in 2012-2015 when I did study B.C.A..</p>
+              <p>I did Project in .net in 2012-2017 when I did study B.E..</p>
               <SkillContainer>
                 {[...project.languages, ...project.libraries].map((item, j) => (
                   <Pill key={j}>{item}</Pill>

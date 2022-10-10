@@ -12,7 +12,7 @@ const UserHeader = ({ user }) => {
       <Header>
         <Image src={user.basics.picture} />
         <div>
-          <h2>Gazal</h2>
+          <h2>Mruga</h2>
           <h4>
             <a
               href={`https://gitconnected.com/v1/portfolio/Mrugapatel`}
@@ -42,7 +42,7 @@ const UserHeader = ({ user }) => {
       </Header>
       <div>
         <ViewResumeLink
-          href={`https://gitconnected.com/v1/portfolio/gazalbenpatel/resume`}
+          href={`https://gitconnected.com/v1/portfolio/Mrugapatel/resume`}
           target="_blank"
           rel="noopener noreferrer"
         >

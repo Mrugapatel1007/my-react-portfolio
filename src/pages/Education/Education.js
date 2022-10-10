@@ -18,7 +18,7 @@ const Education = ({ user }) => {
                 </Degree>{" "}
                 <span> &sdot; </span>
                 <span>
-                  july 2021 to April 2022
+                  january 2022 to october 2022
                 </span>
               </div>
               <Paragraph>
